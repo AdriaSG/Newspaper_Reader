@@ -1,0 +1,2 @@
+# NewsPaperReader
+This is a simple news paper reader to understand webscrapping in Python. I has used numpy, pandas and BeautifulSoup to get and clean the data from an online newspaper, after getting a bunch of articles I had applied LDA for topic modeling and visualized top modeling distribution. this is a quick and fun experiment that could be applied to different newspapers or onlines magazines.
